@@ -1,0 +1,16 @@
+Métriques: 
+- Test Phase Date du test: 2024-04-02 Métriques globales: 
+	- IoU Global: 0.75 
+	- Précision Globale: 0.85 
+	- Rappel Global: 0.87
+	- F1-score Global: 0.85 
+- Métriques par classe: Classe 1: Chat 
+	- IoU: 0.78 
+	- Précision: 0.88 
+	- Rappel: 0.90 
+	- F1-score: 0.89 
+- Classe 2: Chien 
+	- IoU: 0.72 
+	- Précision: 0.82 
+	- Rappel: 0.85 
+	- F1-score: 0.83 
